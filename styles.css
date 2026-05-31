@@ -2,9 +2,9 @@ html {
     background-color: #5a94ac;
 }
 
-.characters {
-}
 
 body{
+    max-width: 800px;
+    margin: 0 auto;
     font-family: 'Montserrat', sans-serif;
 }
